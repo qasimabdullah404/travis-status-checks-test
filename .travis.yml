@@ -1,7 +1,7 @@
 os: linux
 dist: xenial
 arch: amd64
-language: ruby
+language: shell
 
 jobs:
   include:
